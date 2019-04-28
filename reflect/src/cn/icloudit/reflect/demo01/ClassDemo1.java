@@ -4,6 +4,13 @@ import org.junit.Test;
 
 import cn.icloudit.reflect.demo01.entity.Student;
 
+
+
+/**
+ * 这是反射测试类
+ * @author Administrator
+ *
+ */
 public class ClassDemo1 {
 
 	@Test
